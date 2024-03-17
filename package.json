@@ -1,0 +1,36 @@
+{
+  "name": "onedionys-ui-theme-switcher",
+  "version": "1.0.0",
+  "description": "One Dionys (UI Theme Switcher) - Components to allow users to dynamically change the theme of the application interface, providing a customized experience.",
+  "main": "src/ui-theme-switcher.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-ui-theme-switcher.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "ui-theme-switcher"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-ui-theme-switcher/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-ui-theme-switcher#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21"
+  }
+}
